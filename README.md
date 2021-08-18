@@ -1,5 +1,5 @@
 ## Hey folks 👋
-My name is Federico and I'm a CloudDev student and DevOps enthusiast.
+My name is Federico, and I'm interested in Cloud technologies and DevOps things
 
 ### Main skills
 <div style="display-inline">
@@ -11,6 +11,7 @@ My name is Federico and I'm a CloudDev student and DevOps enthusiast.
 <img alt="ArchLinux" src="https://img.shields.io/badge/-ArchLinux-1692d0?style=for-the-badge&logo=archlinux&logoColor=white"/>
 <img alt="Linux" src="https://img.shields.io/badge/-linux-white?style=for-the-badge&logo=linux&logoColor=black"/>
 <img alt="Vim" src="https://img.shields.io/badge/-vim-009431?style=for-the-badge&logo=vim&logoColor=black"/>
+<img alt="Ansible" src="https://img.shields.io/badge/-ansible-white?style=for-the-badge&logo=ansible&logoColor=black"/>
 </div>
 
 ### Stats
