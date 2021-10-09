@@ -31,5 +31,5 @@ If you want to get my GPG key and know my verified profiles, visit my [keyoxide 
   <img alt="Meme" style="display: 'block'" src="https://user-images.githubusercontent.com/37159012/136672337-85495f11-cbe3-443b-aa91-92680f14115a.png">
 </div>
 <div align="center">
-  <img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
+  <a href="https://ko-fi.com/L4L6251FV"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></>
 </div>
