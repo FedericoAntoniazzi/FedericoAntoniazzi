@@ -1,5 +1,4 @@
-## Hey folks 👋
-My name is Federico, and I'm interested in Cloud technologies and DevOps things
+## 
 
 ### Main skills
 <div style="display-inline">
@@ -15,7 +14,14 @@ My name is Federico, and I'm interested in Cloud technologies and DevOps things
 </div>
 
 ### Stats
-![FedericoAntoniazzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedericoAntoniazzi&show_icons=true&theme=tokyonight)
+<div>
+  <div align="center">
+  <img alt="FedericoAntoniazzi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FedericoAntoniazzi&show_icons=true&theme=tokyonight&hide_border=true">
+  </div>
+  <div align="center">
+  <img alt="FedericoAntoniazzi's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoAntoniazzi&layout=compact&hide_border=true&theme=tokyonight">
+  </div>
+</div>
 
 ### Contact me
 You can find me on [LinkedIn](https://linkedin.com/in/federico-antoniazzi) or on [Element](https://matrix.to/#/@federicoantoniazzi:matrix.org).
