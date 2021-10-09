@@ -14,13 +14,9 @@
 </div>
 
 ### Stats
-<div>
-  <div align="center">
-  <img alt="FedericoAntoniazzi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FedericoAntoniazzi&show_icons=true&theme=tokyonight&hide_border=true">
-  </div>
-  <div align="center">
+<div align="center">
+  <img alt="FedericoAntoniazzi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FedericoAntoniazzi&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&hide_title=true">
   <img alt="FedericoAntoniazzi's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoAntoniazzi&layout=compact&hide_border=true&theme=tokyonight">
-  </div>
 </div>
 
 ### Contact me
