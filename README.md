@@ -1,5 +1,6 @@
 <div id="header" align="center">
-    <img width="250" src="images/header.svg" alt="Header illustration (from manypixel.co)">
+
+<h1>Hello there! :wave:</h1>
 
 <div id="badges">
 <a href="https://linkedin.com/in/federico-antoniazzi">
@@ -16,5 +17,4 @@
 </a>
 </div>
 
-<h1>Hello there! :wave:</h1>
 </div>
